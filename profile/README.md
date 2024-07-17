@@ -1,5 +1,7 @@
 # UTH-BrotherHood
 
+![UTH-BrotherHood-Banner](https://github.com/UTH-BrotherHood/.github/blob/main/assets/img/banner.png)
+
 ## Introduction
 Welcome to UTH-BrotherHood, where collaborative learning meets practical application! Our organization is dedicated to facilitating group projects for various school subjects at HCMC university of transport.
 
